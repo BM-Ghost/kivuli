@@ -1,2 +1,2 @@
 # kivuli
-A community chama
+A community chama - android, iOS and web project
